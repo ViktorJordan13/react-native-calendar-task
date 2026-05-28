@@ -1,1 +1,3 @@
 node_modules
+android/app/google-services.json
+ios/rncalendar/GoogleService-Info.plist
