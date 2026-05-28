@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "jsx": "react-native"
+  },
+  "include": ["src", "App.tsx", "__tests__"],
+  "exclude": ["node_modules"]
+}
