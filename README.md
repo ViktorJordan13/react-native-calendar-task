@@ -1,11 +1,8 @@
 # RN Calendar — Meetings & Events
 
-A React Native (bare CLI, **not** Expo) calendar application with email/password
+A React Native calendar application with email/password
 authentication, biometric unlock, and a fully custom calendar UI for creating
 and editing meetings. Built with TypeScript and Firebase.
-
-> Technical assessment submission. The emphasis is on architecture, separation
-> of concerns, and reusable components rather than feature volume.
 
 ---
 
@@ -32,7 +29,7 @@ and editing meetings. Built with TypeScript and Firebase.
 ## Software versions
 
 These are the versions the project was built and pinned against. Use them (or
-newer compatible patches) to reproduce the build.
+newer compatible patches) to reproduce the build. 
 
 | Tool / Library | Version |
 | --- | --- |
@@ -194,14 +191,15 @@ See the Install & run section.
 
 ## Screenshots
 
-_Add a few screenshots here (sign in, month view, day view, event editor,
-profile) before submitting._
-```
-docs/screenshots/
-  01-signin.png
-  02-month.png
-  03-day.png
-  04-editor.png
-  05-profile.png
+Signin:
+
+Month:
+
+Day:
+
+Editor:
+
+Profile:
+
 ```
 ```
