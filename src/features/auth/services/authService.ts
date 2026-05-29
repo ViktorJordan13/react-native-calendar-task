@@ -4,14 +4,13 @@
  * Firebase. Swapping to Async Storage later would mean rewriting only this file.
  */
 import { firebaseAuth } from '../../../lib/firebase';
-import { FirebaseAuthTypes } from '@react-native-firebase/auth';
 
 export interface AuthUser {
   uid: string;
   email: string | null;
 }
 
-const mapUser = (u: FirebaseAuthTypes.User): AuthUser => ({
+const mapUser = (u: { uid: string; email: string | null }): AuthUser => ({
   uid: u.uid,
   email: u.email,
 });

@@ -1,3 +1,27 @@
 node_modules
+
+# Firebase native config — project-specific identifiers, do not commit
 android/app/google-services.json
 ios/rncalendar/GoogleService-Info.plist
+
+# iOS build artifacts
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Android build artifacts
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# Test coverage
+coverage/
+
+# macOS
+.DS_Store
+
+# Metro
+.metro-health-check*
