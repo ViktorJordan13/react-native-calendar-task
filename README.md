@@ -193,13 +193,28 @@ See the Install & run section.
 
 Signin:
 
+<img width="898" height="1910" alt="Signin" src="https://github.com/user-attachments/assets/3773ed0f-f573-4d10-8420-71df2fdf60c7" />
+
+
 Month:
+
+<img width="898" height="1910" alt="Month" src="https://github.com/user-attachments/assets/df8590ea-813e-4426-ad4f-7784c06e2acf" />
+
 
 Day:
 
+<img width="898" height="1910" alt="Day" src="https://github.com/user-attachments/assets/d79799c8-9df1-4e7e-a6ae-ea02444d28ab" />
+
+
 Editor:
 
+<img width="898" height="1910" alt="Editor" src="https://github.com/user-attachments/assets/422e3e18-5421-4d84-87f2-94aeb0c7a2bd" />
+
+
 Profile:
+
+<img width="898" height="1910" alt="Profile" src="https://github.com/user-attachments/assets/d23e0fce-0818-4a2c-99d0-64371221cb77" />
+
 
 ```
 ```
